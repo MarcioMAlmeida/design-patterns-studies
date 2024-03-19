@@ -20,6 +20,4 @@ class CartaoTest {
         assertEquals("Fatura Cartão Platinum",cartao.emitirFatura());
     }
 
-
-
 }
