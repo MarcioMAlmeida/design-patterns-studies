@@ -1,4 +1,4 @@
-#FactoryMethodExemplo#
+# FactoryMethodExemplo #
 
 # Diagrama de Classe #
 
