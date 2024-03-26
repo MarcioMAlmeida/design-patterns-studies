@@ -15,8 +15,8 @@ class CartaoTest {
         cartaoClone.setDataValidade("09/31");
         cartaoClone.setCodigoSeguranca(456);
 
-        assertEquals("Cartao{conta=Conta{logradouro='Rua A', numero=1}, localNascimento='Juiz de Fora'}", cartao.toString());
-        assertEquals("Cartao{conta=Conta{logradouro='Rua A', numero=2}, localNascimento='Juiz de Fora'}", cartaoClone.toString());
+        assertEquals("Cartao{conta='Conta{conta='1234', agencia='123456-7', portador='Marcio Martins de Almeida', documento='123.456.789-10'}', numero='0123-4567-8910-0000', dataValidade='08/31', codigoSeguranca='123', nomeCartao='MARCIO M ALMEIDA'}", cartao.toString());
+        assertEquals("Cartao{conta='Conta{conta='1234', agencia='123456-7', portador='Marcio Martins de Almeida', documento='123.456.789-10'}', numero='8910-0000-4567-0123', dataValidade='09/31', codigoSeguranca='456', nomeCartao='MARCIO M ALMEIDA'}", cartaoClone.toString());
     }
 
 }

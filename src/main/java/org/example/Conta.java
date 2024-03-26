@@ -55,9 +55,9 @@ public class Conta implements Cloneable {
     public String toString() {
         return "Conta{" +
                 "conta='" + conta + '\'' +
-                "agencia='" + agencia + '\'' +
-                "portador='" + portador + '\'' +
-                ", documento=" + documento +
-                '}';
+                ", agencia='" + agencia + '\'' +
+                ", portador='" + portador + '\'' +
+                ", documento='" + documento +
+                "'}";
     }
 }

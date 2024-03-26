@@ -68,11 +68,11 @@ public class Cartao implements Cloneable {
     @Override
     public String toString() {
         return "Cartao{" +
-                "conta=" + conta + '\'' +
+                "conta='" + conta + '\'' +
                 ", numero='" + numeroCartao + '\'' +
-                ", dataValidade=" + dataValidade + '\'' +
-                ", codigoSeguranca=" + codigoSeguranca + '\'' +
+                ", dataValidade='" + dataValidade + '\'' +
+                ", codigoSeguranca='" + codigoSeguranca + '\'' +
                 ", nomeCartao='" + nomeCartao +
-                '}';
+                "'}";
     }
 }
