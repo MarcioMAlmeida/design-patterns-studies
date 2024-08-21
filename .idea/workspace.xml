@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80bb9d10-dffb-466e-9a53-bdbba0497fb2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Cargo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CargoFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Empresa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/EmpresaTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="80bb9d10-dffb-466e-9a53-bdbba0497fb2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -125,7 +113,7 @@
       <option name="presentableId" value="Default" />
       <updated>1724204967600</updated>
       <workItem from="1724204968626" duration="1359000" />
-      <workItem from="1724206335538" duration="1183000" />
+      <workItem from="1724206335538" duration="1598000" />
     </task>
     <servers />
   </component>
