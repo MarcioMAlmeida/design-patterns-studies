@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b79cde03-3fda-459c-8558-d8534dee98b3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Dollar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/IMoeda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MoedaAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Real.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/ContaTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="b79cde03-3fda-459c-8558-d8534dee98b3" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -145,7 +131,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1724207946980</updated>
-      <workItem from="1724207948052" duration="6080000" />
+      <workItem from="1724207948052" duration="6487000" />
     </task>
     <servers />
   </component>
