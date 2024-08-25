@@ -2,4 +2,5 @@
 
 ## Diagrama de Classe ## 
 
-![image](https://github.com/user-attachments/assets/0960557d-9257-449a-945e-a3bd2a0e09d1)
+![image](https://github.com/user-attachments/assets/1940dfa6-b912-4314-bf41-f1356fdbaf6a)
+
