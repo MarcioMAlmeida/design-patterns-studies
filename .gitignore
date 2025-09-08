@@ -1,10 +1,5 @@
-# Arquivos e pastas de Build
 target/
-build/
 
-# Arquivos de IDE
-.idea/
 *.iml
 
-# Outros
 .DS_Store
