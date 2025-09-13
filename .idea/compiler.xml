@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ProxyExemplo" />
+        <module name="ChainOfResponsabilityExemplo" />
+        <module name="VisitorExemplo" />
+        <module name="FactoryMethodExemplo" />
+        <module name="BiulderExemplo" />
+        <module name="FlyweightExemplo" />
+        <module name="MediatorExemplo" />
+        <module name="DecoratorExemplo" />
+        <module name="CommandExemplo" />
+        <module name="TemplateMethodExemplo" />
+        <module name="FacadeExemplo" />
+        <module name="InterpreterExemplo" />
+        <module name="MementoExemplo" />
+        <module name="CompositeExemplo" />
+        <module name="AdapterExemplo" />
+        <module name="StrategyExemplo" />
+        <module name="PrototypeExemplo" />
+        <module name="BridgeExemplo" />
+        <module name="StateExemplo" />
+        <module name="IteratorExemplo" />
+        <module name="ObserverExemplo" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

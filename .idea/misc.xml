@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Criacional/Builder/pom.xml" />
+        <option value="$PROJECT_DIR$/Criacional/Prototype/pom.xml" />
+        <option value="$PROJECT_DIR$/Criacional/FactoryMethod/pom.xml" />
+        <option value="$PROJECT_DIR$/Criacional/AbstractFactory/pom.xml" />
+        <option value="$PROJECT_DIR$/Estrutural/Proxy/pom.xml" />
+        <option value="$PROJECT_DIR$/Estrutural/Bridge/pom.xml" />
+        <option value="$PROJECT_DIR$/Estrutural/Facade/pom.xml" />
+        <option value="$PROJECT_DIR$/Estrutural/Adapter/pom.xml" />
+        <option value="$PROJECT_DIR$/Estrutural/Composite/pom.xml" />
+        <option value="$PROJECT_DIR$/Estrutural/Decorator/pom.xml" />
+        <option value="$PROJECT_DIR$/Estrutural/Flyweight/pom.xml" />
+        <option value="$PROJECT_DIR$/Comportamental/State/pom.xml" />
+        <option value="$PROJECT_DIR$/Comportamental/Command/pom.xml" />
+        <option value="$PROJECT_DIR$/Comportamental/Memento/pom.xml" />
+        <option value="$PROJECT_DIR$/Comportamental/Visitor/pom.xml" />
+        <option value="$PROJECT_DIR$/Comportamental/Iterator/pom.xml" />
+        <option value="$PROJECT_DIR$/Comportamental/Mediator/pom.xml" />
+        <option value="$PROJECT_DIR$/Comportamental/Observer/pom.xml" />
+        <option value="$PROJECT_DIR$/Comportamental/Strategy/pom.xml" />
+        <option value="$PROJECT_DIR$/Comportamental/Interpreter/pom.xml" />
+        <option value="$PROJECT_DIR$/Comportamental/TemplateMethod/pom.xml" />
+        <option value="$PROJECT_DIR$/Comportamental/ChainOfResponsability/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_23" default="true" project-jdk-name="openjdk-23" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
