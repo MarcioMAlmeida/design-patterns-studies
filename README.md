@@ -2,6 +2,8 @@
 
 Bem-vindo a este repositório dedicado à exploração e implementação dos principais Padrões de Projeto (Design Patterns) utilizando a linguagem Java. Cada padrão foi desenvolvido como um projeto Maven individual para facilitar o estudo e a compreensão de seus conceitos e aplicabilidade.
 
+Este projeto unifica os diversos repositórios individuais que foram originalmente criados durante a disciplina de Linguagem de Programação V. Cada sub-projeto aqui presente é autocontido e inclui não apenas a implementação de um exemplo prático do padrão, mas também seus respectivos testes unitários e um diagrama de classe que ilustra a estrutura desenvolvida.
+
 ## O que são Padrões de Projeto?
 
 Padrões de Projeto são soluções reutilizáveis, testadas e comprovadas para problemas comuns que ocorrem no desenvolvimento de software. Eles não são um código ou algoritmo específico, mas sim um **modelo** ou **template** que descreve como estruturar classes e objetos para resolver um determinado tipo de problema de forma eficiente e flexível.
